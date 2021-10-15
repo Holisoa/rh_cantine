@@ -1,0 +1,34 @@
+{
+   "collaborateurs": [
+       {
+        "Matricule": "CN00002",
+        "Nom_penoms": "RAKOTOMANANA Nathalie",
+        "Fonction": "Assistante de direction"
+       },
+       {
+        "Matricule": "CN00138",
+        "Nom_penoms": "RAMANOELINA Fanjanirina Patricia",
+        "Fonction": "Contrôleur Qualité Front"
+       },
+       {
+        "Matricule": "CN00003",
+        "Nom_penoms": "RAKOTOARISON Annie",
+        "Fonction": "Management Controller"
+       },
+       {
+        "Matricule": "CN00123",
+        "Nom_penoms": "RAKOTONIRINA Lalaina Franck",
+        "Fonction": "Responsable Support Technique"
+       },
+       {
+        "Matricule": "CN00008",
+        "Nom_penoms": "RAKOTONDRAMANANA Milson Herizo Zélie",
+        "Fonction": "Chargé de l'Administration Sociale et du Personnel"
+       },
+       {
+        "Matricule": "CN00039",
+        "Nom_penoms": "RAJAONARISON Fernand",
+        "Fonction": "Contrôleur des Opérations"
+       }
+   ]
+}
